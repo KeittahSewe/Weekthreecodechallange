@@ -23,7 +23,7 @@ Write your code in the src/index.js file. The base URL for your API will be
    http://localhost:3000.
 
 ## Author
-Victor
+Keittah Sewe
 
 ## License
  Licensed using MIT license
